@@ -1,6 +1,5 @@
 Privacy Policy of Deep-IT-Notes
 In order to receive information about your Personal Data, the purposes and the parties the Data is shared with, contact the Owner.
-
 Owner and Data Controller
 Types of Data collected
 The owner does not provide a list of Personal Data types collected.
@@ -92,8 +91,7 @@ The Owner reserves the right to make changes to this privacy policy at any time 
 
 Should the changes affect processing activities performed on the basis of the User’s consent, the Owner shall collect new consent from the User, where required.
 
-Definitions and legal references:
-
+Definitions and legal references
 Personal Data (or Data)
 Any information that directly, indirectly, or in connection with other information — including a personal identification number — allows for the identification or identifiability of a natural person.
 
